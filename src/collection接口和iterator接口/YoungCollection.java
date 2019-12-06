@@ -16,6 +16,7 @@ public class YoungCollection {
 			c.add("江湖");
 			System.out.println("集合C的元素："+c);
 			System.out.println("test");
+			System.out.println("用来测试代码的对比");
 		}
 		catch(Exception e) {
 			System.out.println("输出错误:"+e);
