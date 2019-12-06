@@ -15,6 +15,7 @@ public class YoungCollection {
 			System.out.println("集合C的元素是否包含美美字符串"+c.contains("美美"));
 			c.add("江湖");
 			System.out.println("集合C的元素："+c);
+			System.out.println("test");
 		}
 		catch(Exception e) {
 			System.out.println("输出错误:"+e);
